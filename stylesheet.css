@@ -1,11 +1,28 @@
+/* * {
+    outline: 2px solid red;
+} */
+
 h1 {
     color: purple;
+    padding: 8px
 }
 
 h2 {
     color: aqua;
+    padding: 4px;
 }
 
 body {
     background-color: grey;
+}
+
+li {
+    padding: 2px;
+}
+
+img {
+    padding: 16px;
+    margin: 16px;
+    height: 200px;
+    width: auto;
 }
