@@ -1,6 +1,18 @@
 /* * {
     outline: 2px solid red;
+}
+
+div {
+    outline: 2px solid blue;
+}
+
+span {
+    outline: 2px solid green;
 } */
+
+span.highlight {
+    background-color: yellow;
+}
 
 h1 {
     color: purple;
